@@ -15,8 +15,6 @@ I'm currently working on my own Portfolio<br>I'm looking for help with enhancing
 ![](https://github-profile-trophy.vercel.app/?username=rixlzxe&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🎵 Spotify Now Playing
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wgck5ljnsnjq7fdbhf7ub7gra4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wgck5ljnsnjq7fdbhf7ub7gra4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color_cover=true">
@@ -26,6 +24,7 @@ I'm currently working on my own Portfolio<br>I'm looking for help with enhancing
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+![riellllllll's GitHub stats](https://github-readme-stats.vercel.app/api?username=riellllllll&hide=contribs,prs)
 ---
 [![](https://visitcount.itsvg.in/api?id=rixlzxe&icon=0&color=0)](https://visitcount.itsvg.in)
 
