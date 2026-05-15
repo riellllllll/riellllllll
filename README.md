@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
+
 # 💫 About Me:
 I'm currently working on my own Portfolio<br>I'm looking for help with enhancing my knowledge about scripting<br>I'm currently learning C++, PHP, JavaScript
 
