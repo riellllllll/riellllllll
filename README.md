@@ -10,7 +10,8 @@ I'm currently working on my own Portfolio<br>I'm looking for help with enhancing
     <img src="https://skillicons.dev/icons?i=git,bash,cpp,css,git,github,html,java,js,linux,mysql,ps,php,py,ubuntu,vscode" />
   </a>
 </p>
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
+
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&fontFamily=Adamina&preferLogin=false&borderRadius=4&Background=DDDDDD&Text=000000&Title=000000&Border=DDDDDD&Ring=000000">    <img  alt="riellllllll's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/riellllllll?cardType=github&theme=github-dark&fontFamily=Adamina&preferLogin=false&borderRadius=4&Background=DDDDDD&Text=000000&Title=000000&Border=DDDDDD&Ring=000000" />  </a>
 
 ## 🏆 GitHub Trophies
