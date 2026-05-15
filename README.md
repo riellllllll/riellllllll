@@ -17,6 +17,12 @@ I'm currently working on my own Portfolio<br>I'm looking for help with enhancing
 ## 🎵 Spotify Now Playing
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wgck5ljnsnjq7fdbhf7ub7gra4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wgck5ljnsnjq7fdbhf7ub7gra4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color_cover=true">
+  </a>
+</p>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
