@@ -24,7 +24,6 @@ I'm currently working on my own Portfolio<br>I'm looking for help with enhancing
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-[![riellllllll's GitHub stats](https://github-readme-stats.vercel.app/api?username=riellllllll)](https://github.com/anuraghazra/github-readme-stats)
 ---
 [![](https://visitcount.itsvg.in/api?id=rixlzxe&icon=0&color=0)](https://visitcount.itsvg.in)
 
