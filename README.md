@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 
 
 # 💫 About Me:
@@ -16,6 +13,9 @@ I'm currently working on my own Portfolio<br>I'm looking for help with enhancing
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rixlzxe&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## 🎵 Spotify
+![](https://github.com/anuraghazra/github-readme-stats.git)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
