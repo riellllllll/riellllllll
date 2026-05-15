@@ -11,9 +11,7 @@ I'm currently working on my own Portfolio<br>I'm looking for help with enhancing
   </a>
 </p>
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rixlzxe&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rixlzxe&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rixlzxe&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&fontFamily=Adamina&preferLogin=false&borderRadius=4&Background=DDDDDD&Text=000000&Title=000000&Border=DDDDDD&Ring=000000">    <img  alt="riellllllll's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/riellllllll?cardType=github&theme=github-dark&fontFamily=Adamina&preferLogin=false&borderRadius=4&Background=DDDDDD&Text=000000&Title=000000&Border=DDDDDD&Ring=000000" />  </a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rixlzxe&theme=radical&no-frame=false&no-bg=true&margin-w=4)
